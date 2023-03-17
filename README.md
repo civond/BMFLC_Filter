@@ -4,8 +4,8 @@ The weighted-frequency Fourier Linear Combiner (WFLC) is a nonlinear adaptive no
 The band-limited multiple Fourier Linear Combiner (BMFLC) is an alternative to filter tremor signals that is based on the concepts of the WFLC algorithm. BMFLC is able to track multiple frequency components in an input signal as shown in the figures below.
 
 <div>
-    <img src='figures/layout.png' width='400px' style="text-align:center" ></img></br>
-    <img src='figures/layout2.png' width='450px'></img></br>
+    <img src='/Figures/layout.png' width='400px' style="text-align:center" ></img></br>
+    <img src='/Figures/layout2.png' width='450px'></img></br>
 </div></br>
 
 <h2>Usage</h2>
@@ -16,6 +16,6 @@ Then, the code will create 3 2xN matrices to store weight values, estimate, and 
 <br/><br/>
 
 <div>
-    <img width="400px" src="/figures/BMFLC.jpg"></img>
-    <img width="400px" src="figures/zoom.jpg"></img>
+    <img width="400px" src="/Figures/BMFLC.jpg"></img>
+    <img width="400px" src="/Figures/zoom.jpg"></img>
 </div>
