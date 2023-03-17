@@ -16,6 +16,6 @@ Then, the code will create 3 2xN matrices to store weight values, estimate, and 
 <br/><br/>
 
 <div>
-    <img width="400px" src="figures/BMFLC.jpg"></img>
+    <img width="400px" src="/figures/BMFLC.jpg"></img>
     <img width="400px" src="figures/zoom.jpg"></img>
 </div>
